@@ -6,3 +6,7 @@ about typesetting of uestc master thesis
 2016年4月17日
 
 1、增加matlab画图的m文件
+
+2、增加python用于生成相同尺寸大小的pdf文档代码
+
+
